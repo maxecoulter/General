@@ -37,16 +37,16 @@ Detailed explanation of arguments:
 
 **-d Input dataset** This is a tab delimited text file with genotype information for each of your individuals of interest. The columns must be in the format Marker Name, chrom, position, line 1 allele, line 2 allele,.... line n allele. e.g:
 
-  Marker	Chromosome	Barke position	Barke	Int_52	Int_33	Int_42	Int_17	Int_19	Int_56
-  JHI-Hv50k-2016-7	chr1H	112201	T	T	T	T	T	T	T
-  JHI-Hv50k-2016-11	chr7H	155865517	G	G	G	G	G	G	G
-  JHI-Hv50k-2016-24	chr1H	110264	T	T	T	T	T	T	T
-  JHI-Hv50k-2016-64	chr1H	106615	A	A	A	A	A	A	A
-  JHI-Hv50k-2016-66	chr1H	106465	T	T	T	T	T	T	T
-  JHI-Hv50k-2016-72	chr1H	105691	G	G	G	G	G	G	G
-  JHI-Hv50k-2016-73	chr1H	105623	NA	NA	NA	NA	NA	NA	NA
-  JHI-Hv50k-2016-88	chr1H	104313	A	A	A	A	A	A	A
-  JHI-Hv50k-2016-97	chr1H	103806	A	A	A	A	A	A	A
+    Marker	Chromosome	Barke position	Barke	Int_52	Int_33	Int_42	Int_17	Int_19	Int_56
+    JHI-Hv50k-2016-7	chr1H	112201	T	T	T	T	T	T	T
+    JHI-Hv50k-2016-11	chr7H	155865517	G	G	G	G	G	G	G
+    JHI-Hv50k-2016-24	chr1H	110264	T	T	T	T	T	T	T
+    JHI-Hv50k-2016-64	chr1H	106615	A	A	A	A	A	A	A
+    JHI-Hv50k-2016-66	chr1H	106465	T	T	T	T	T	T	T
+    JHI-Hv50k-2016-72	chr1H	105691	G	G	G	G	G	G	G
+    JHI-Hv50k-2016-73	chr1H	105623	NA	NA	NA	NA	NA	NA	NA
+    JHI-Hv50k-2016-88	chr1H	104313	A	A	A	A	A	A	A
+    JHI-Hv50k-2016-97	chr1H	103806	A	A	A	A	A	A	A
   
  Genotypes should be in the format A|C|G|T. Heterozygous genotypes (e.g A/T) and NAs will be removed automatically.
  
