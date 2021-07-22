@@ -39,7 +39,6 @@ Detailed explanation of arguments:
 
     Marker	Chromosome	Barke position	Barke	Int_52	Int_33	Int_42	Int_17	Int_19	Int_56
     JHI-Hv50k-2016-7	chr1H	112201	T	T	T	T	T	T	T
-    JHI-Hv50k-2016-11	chr7H	155865517	G	G	G	G	G	G	G
     JHI-Hv50k-2016-24	chr1H	110264	T	T	T	T	T	T	T
     JHI-Hv50k-2016-64	chr1H	106615	A	A	A	A	A	A	A
     JHI-Hv50k-2016-66	chr1H	106465	T	T	T	T	T	T	T
