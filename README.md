@@ -2,7 +2,7 @@
 
 ## Introgression viewer
 
-A program for quickly viewing a high level overview of introgressions or contrasting genotypes between two or more individuals. Designed for high density SNP data as an input. The program was designed for viewing introgressions in barley genotypes. It currently only works with fixed (ie non-heterozygous) lines and will ignore region of heterozygozity, though there are plans to include this.
+A program for quickly viewing a high level overview of introgressions or contrasting genotypes between two or more individuals. Designed for high density SNP data as an input. The program was designed for viewing introgressions in barley genotypes. It currently only works with fixed (ie non-heterozygous) individuals and will ignore region of heterozygozity, though there are plans to include het calls.
 
 The genotype of a particular region is determoined from a sliding window and parameters set by the user. The larger the sliding window, the more accurate the prediction of the genotype for that particular region, but there is a trade off between accuracy and resolution. A histogram of identity displayed by the program should bbe used to fine tune the parameters. The user can also set a minimum introgression size to avoid false positive recombination events.
 
