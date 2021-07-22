@@ -11,6 +11,8 @@ The genotype of a particular region is determoined from a sliding window and par
 -  pandas
 -  matplotlib
 
+Introgression viewer requires python >=3.7
+
 
 #### Usage
 
