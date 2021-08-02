@@ -61,7 +61,7 @@ Detailed explanation of arguments:
  
  **-window_size** Window size. Larger windows will mean less false positives/negatives, but could lead to more inaccurate boundry positions
  
- **-colour** Colours for comparison in format <colour1,colour2>. Default: purple and green.
+ **-colour** Colours for comparison in format <colour1,colour2>. Default: purple and green. Note: If you want to use colour codes, you can, but change the # to %, e.g for yellow %FFFF00 instead of #FFFF00
  
  **-features** Genes or other features to add onto chromosomes. File must be in bed4 format
  
