@@ -74,4 +74,10 @@ Outputs will appear in the same directory as the script
 
 **Genotype2-Genotype1_chromosomes.png**  The visualisation of chromosomes
 
+Examples:
+
+![Figure 1](https://github.com/maxecoulter/General/blob/main/figures/Int_19-Barke_chromosomes.png)
+
+![Figure 2](https://github.com/maxecoulter/General/blob/main/figures/Int_52-Barke_chromosomes.png)
+
 
