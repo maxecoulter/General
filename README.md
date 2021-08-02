@@ -1,5 +1,7 @@
 # General
 
+A repository for some code related to genetics/ genomics under development.
+
 ## Introgression viewer
 
 A program for quickly viewing a high level overview of introgressions or contrasting genotypes between two or more individuals. Designed for high density SNP data as an input. The program was designed for viewing introgressions in barley genotypes. It currently only works with fixed (ie non-heterozygous) individuals and will ignore region of heterozygozity, though there are plans to include het calls.
