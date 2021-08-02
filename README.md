@@ -53,9 +53,9 @@ Detailed explanation of arguments:
  
  **-c comparisons** The genotypes you want to compare. One or more comparisons in this format: genotype2-genotype1, genotype3-genotype1. Warning: Different comparisons may have different similarities, so you may want to run one at a time with paramters set for each one. Also make sure genotype names match genotype names in your -d input file, otherwise nothing will work!')
  
- **-chrom chromosomes** Optional: The chromosomes you want to visualise. e.g chr1H,chr2H'. Default will display all. 
+ **-chrom chromosomes** Optional: The chromosomes you want to visualise. e.g chr1H,chr2H. Default will display all. 
  
- **-cutoff** Optional: Percentage similarity cutoff for determining alleles', default = 90. Use the histogram to set this value correctly
+ **-cutoff** Optional: Percentage similarity cutoff for determining alleles, default = 90. Use the histogram to set this value correctly
  
  **-step_size** Step size (int). Small value (1) can give more accurate introgression intervals, but will be fuzzy. Large value for sharp intervals, but loss of accuracy', default = 10
  
