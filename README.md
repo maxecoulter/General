@@ -22,14 +22,14 @@ python Introgression_viewer.py [-d] [-c] [-chrom] [-cutoff] [-step_size] [-windo
 
 **Optional arguments:**
 
-  -d               Input dataset
-  -c               The comparisons you would like to make
-  -chrom           Optional: The chromosomes you want to visualise
-  -cutoff          Optional: Percentage similarity cutoff for determining alleles (default: 90)
-  -step_size       Optional: Step size (default = 10)
-  -window_size     Optional: Window size (default = 100)
-  -colour          Optional: Colours for comparison (default = "purple,green")
-  -features        Optional: Genes or other features to add
+     -d               Input dataset
+     -c               The comparisons you would like to make
+     -chrom           Optional: The chromosomes you want to visualise
+     -cutoff          Optional: Percentage similarity cutoff for determining alleles (default: 90)
+     -step_size       Optional: Step size (default = 10)
+     -window_size     Optional: Window size (default = 100)
+     -colour          Optional: Colours for comparison (default = "purple,green")
+     -features        Optional: Genes or other features to add
   
 Default usage would look like this:
 
