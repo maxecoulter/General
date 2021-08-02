@@ -74,6 +74,8 @@ Outputs will appear in the same directory as the script
 
 **Genotype2-Genotype1_chromosomes.png**  The visualisation of chromosomes
 
+**chromosomeN_histogram.png** A histogram of genotypic similarity from all windows, for each chromosome. Use these figures to determine your cutoff. X axis is percentage similarity, y is frequency. You should see a peak close to 100 which represents those areas of the chromosome that are the same, and a further peak showing those areas of the genome where there are differences. Set your cutoff between these two peaks. If your genotype data is accurate this should be set to about 95%.
+
 Examples:
 
 ![Figure 1](https://github.com/maxecoulter/General/blob/main/figures/Int_19-Barke_chromosomes.png)
