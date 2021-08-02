@@ -82,6 +82,6 @@ Examples:
 
 ![Figure 2](https://github.com/maxecoulter/General/blob/main/figures/Int_52-Barke_chromosomes.png)
 
-In these examples, those regions that have a different genotype between the two lines being compared are in yellow, whilst areas of the same genotype are in blue. If you compare a line from a population with its parent, the areas of difference will correspond to introgressions (as in these examples).
+In these examples, those regions that have a different genotype between the two lines being compared are in yellow, whilst areas of the same genotype are in blue. If you compare a line from a population with its parent, the areas of difference/similarity will correspond to introgressions (as in these examples).
 
 
