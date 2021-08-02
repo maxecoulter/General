@@ -8,7 +8,7 @@ A program for quickly viewing a high level overview of introgressions or contras
 
 The genotype of a particular region is determoined from a sliding window and parameters set by the user. The larger the sliding window, the more accurate the prediction of the genotype for that particular region, but there is a trade off between accuracy and resolution. A histogram of identity displayed by the program should bbe used to fine tune the parameters. The user can also set a minimum introgression size to avoid false positive recombination events.
 
-#### Dependencies:
+### Dependencies:
 
 -  pandas
 -  matplotlib
@@ -16,7 +16,7 @@ The genotype of a particular region is determoined from a sliding window and par
 Introgression viewer requires python >=3.7
 
 
-#### Usage
+### Usage
 
 python Introgression_viewer.py [-d] [-c] [-chrom] [-cutoff] [-step_size] [-window_size] [-colour] [-features] 
 
@@ -66,7 +66,7 @@ Detailed explanation of arguments:
  **-features** Genes or other features to add onto chromosomes. File must be in bed4 format
  
  
-#### Outputs
+### Outputs
 
 Outputs will appear in the same directory as the script
 
